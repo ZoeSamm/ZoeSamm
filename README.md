@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I'm Zoe Samm
 #### Frontend Developer 
-![Frontend Developer ](https://pbs.twimg.com/profile_banners/1355902091491995652/1677415884/600x200)
 
 I am Zoe Samm,  a programmer skilled in JavaScript, C Language, and Python, I do frontend jobs as I am vast with advanced HTML, advanced CSS, and JavaScript. I am currently undergoing a software engineering course with ALX.
 
