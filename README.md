@@ -8,7 +8,7 @@ I am Zoe Samm,  a programmer skilled in JavaScript, C Language, and Python, I do
 I am available for any front-end projects, also python projects. I am also willing to collaborate with young and seasoned programmers on technical projects
 I am a certified data analyst, skilled with SQL and python and its packages for Data science.
 
-- ##Skills and Experience
+  Skills and Experience
 - PYTHON/ REACT / JS / HTML / CSS
 -  
 
